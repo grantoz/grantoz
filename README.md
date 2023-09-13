@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grantoz
 - 👀 I’m interested in event-driven architectures, domain-driven design, microservices, and anything with a piano keyboard or synth engine attached.
-- 🌱 I’m currently learning Deno
+- 🌱 I’m currently learning Deno and Rust
 - 💞️ I’m looking to collaborate on: any of the above
 - 📫 How to reach me: @grantozolins on Twitter
 
