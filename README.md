@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @grantoz
-- 👀 Professionally, I’m interested in event-driven architectures, domain-driven design, microservices, personally: anything with a piano keyboard or synth engine attached.
-- 📆 Lately I do a lot of Typescript web things - please see my LinkedIn
-- 🌱 I’m currently learning Deno and Rust
-- 💞️ I’m looking to collaborate on: I do enough tech at work. Drop me a line if you need an experienced keyboard player for your production or gigs in Sydney!
+- 👀 Professionally, I’m interested in event-driven architectures, domain-driven design, microservices
+- 🎹 Personally: piano, synth, keyboards, producting music
+- 📆 Lately I've been doing lots of Laravel, Typescript and Deno
+- 🌱 I’m currently learning Rust better, just for fun
+- 💞️ I’m looking to collaborate on: a worthwhile musical project!
 - 📫 How to reach me: @grantozolins on Twitter, see other links in Profile.
 
 <!---
